@@ -1,0 +1,33 @@
+ManifestFileVersion: 0
+CRC: 261643393
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e7105a91f74ddd5156a752e92fd50c88
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 4cd8689a3ee19a6a06f42724ff2b11d4
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4dd0555cad777874c8e26682d6fa798c, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Meshes/Prefabs/Treppenturm.prefab
+Dependencies: []

@@ -1,0 +1,7 @@
+ManifestFileVersion: 0
+CRC: 4238365097
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: treppenturm
+      Dependencies: {}
