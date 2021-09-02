@@ -8,7 +8,7 @@ The **AR 3S Grouped Asset Creator** gives you a quick and easy way to get your
 - **Unity 2019.4.x (LTS)** with the following installed packages:
   
   - Windows Build Support (IL2CPP)
-  - UWP Build Support (.NET)![Bild1.jpg](/Docs/1.png)
+  - UWP Build Support (.NET)![Bild1.jpg](/Docs/1.jpg)
   - (Unity Hub -> Installs -> Add Modules)
 
 - **Visual Studio Community 2019** with the following installed packages:   ![2.png](/Docs/2.png)
